@@ -17,6 +17,7 @@ Alguns dos conteúdos abordados no bootcamp até agora:
 * Git/GitHub
 * Scrum
 * Curso HTML e CSS
+* Bootstrap
 * Javascript
 * ReactjS
 * Java
