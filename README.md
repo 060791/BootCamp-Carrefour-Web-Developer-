@@ -1,4 +1,4 @@
-# BootCamp Carrefour Web Developer :heart::heart::heart::heart::heart:
+# BootCamp Carrefour Web Developer :pencil2::computer::iphone:
 Olá! Bem-vindo!  Alguns dos desafios e arquivos do bootcamp estão nesse repositório:
 
 ## Desafios de Javascript
